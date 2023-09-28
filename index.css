@@ -10,6 +10,16 @@ body{
     height: 105vh;
 }
 
+#arrow{
+    position: absolute;
+    right: 20px;
+    top: 22px;
+}
+
+#arrow img{
+    width: 25px;
+}
+
 .img-background{
     position: absolute;
     width: 100vw;
